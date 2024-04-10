@@ -1,0 +1,4 @@
+- Fixed bug where FIFA 23 was not always being launched correctly (Editor and Mod Manager)
+- Improved the clarity of a string (Editor)
+- Updated FC24 SDK (Editor)
+- Updated third-party dependencies (Editor and Mod Manager)
