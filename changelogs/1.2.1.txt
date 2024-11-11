@@ -1,0 +1,8 @@
+- Updated FC25 SDK (Editor)
+- Added more reversed legacy file name hashes (Editor)
+- Minor performance improvement when launching FC25 (Editor and Mod Manager)
+- Fixed potential issue where bundle would be written past CAS file size limit (Editor and Mod Manager)
+- Fixed issue where original game data was being modified for games where CAS files can't be added (Editor and Mod Manager)
+- Fixed errors being caused by previous format mods (Editor and Mod Manager)
+- Updated third-party dependencies (Editor)
+- Other improvements and fixes (Editor and Mod Manager)
